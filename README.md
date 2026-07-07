@@ -23,3 +23,7 @@ I want to become an international software engineer.
 - [ ] Learn Git
 - [ ] Finish my first project
 - [ ] Upload my first website
+
+## Day 1
+
+Today I learned GitHub.

@@ -20,10 +20,6 @@ I want to become an international software engineer.
 ## 🚀 Progress
 
 - [x] Create my first repository
-- [ ] Learn Git
-- [ ] Finish my first project
-- [ ] Upload my first website
-
-## Day 1
-
-Today I learned GitHub.
+- [x] Learn Git
+- [x] Finish my first project
+- [x] Upload my first website
